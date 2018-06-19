@@ -1,0 +1,6 @@
+
+===================  PERFORMANCE SUMMARY  =====================
+
+ n_atoms   n_dist     f_err     derr_min    derr_avg    derr_max
+
+   428     91378    1.37e+04    0.00e+00    1.03e-01    9.82e-01 

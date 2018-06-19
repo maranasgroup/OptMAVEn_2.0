@@ -1,0 +1,1 @@
+python src/check_status.py $@
